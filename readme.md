@@ -1,8 +1,9 @@
+
 Fortune Cookie의 한국어 버전입니다.
 
 35가지 포츈 쿠키 문장과 행운의 숫자(0~100)로 오늘 운세를 확인해 보세요.
 
-npm을 학습하기 위해 제작되었습니다.
+npm을 학습하기 위해 제작되었습니다. [NPM Link](https://www.npmjs.com/package/fortune-cookie-ko)
 
 <br>
 
