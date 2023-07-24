@@ -1,7 +1,13 @@
 {
   "name": "fortune-cookie-ko",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fortune Cookie의 한국어 버전입니다. 35가지 포츈 쿠키 문장과 행운의 숫자(0~100)로 오늘 운세를 확인해 보세요.",
+  "keywords": [
+    "fortune",
+    "cookie",
+    "fortune cookie",
+    "random"
+  ],
   "main": "fortuneCookies",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
